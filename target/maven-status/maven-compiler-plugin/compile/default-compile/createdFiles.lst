@@ -1,0 +1,16 @@
+org\wavemaker\implementation\UserManagementDBImpl.class
+org\wavemaker\exception\IDAlreadyExistsException.class
+org\wavemaker\filter\UserAuthentication.class
+org\wavemaker\connection\MySQLConnection.class
+org\wavemaker\servlet\UserLogoutServlet.class
+org\wavemaker\servlet\UserLoginServlet.class
+org\wavemaker\userinterface\UserOperations.class
+org\wavemaker\constants\PersistentType.class
+org\wavemaker\manager\UserManagerFactory.class
+org\wavemaker\implementation\UserManagementInMemoryImpl.class
+org\wavemaker\controller\UserServlet.class
+org\wavemaker\manager\UserManagerFactory$1.class
+org\wavemaker\model\User.class
+org\wavemaker\constants\PersistentType$MEMORY_TYPE.class
+org\wavemaker\Main.class
+org\wavemaker\exception\IDNotFoundException.class
